@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Projects & Products
+## 🚀 Products
 
 - [**Wealth iOS**](https://apps.apple.com/us/app/wealthaio/id6738942787) — iOS finance app with **400+ downloads** 📱  
 - [**Account Vault**](https://discord.gg/account-vaultx) — Secure account storage platform with **3,000+ users** 🔐  
