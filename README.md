@@ -6,5 +6,5 @@
 
 - Extensive expierence at [Rohde & Schwarz](https://www.rohde-schwarz.com/us/about/magazine/from-insight-to-impact/from-insight-to-impact_258238.html?mid=10889&midx=exact_brand_search_text-ad_r-na_story-educates&kw=rohde%20and%20schwarz) as an engineer/software dev
 - [**Wealth iOS**](https://apps.apple.com/us/app/wealthaio/id6738942787) — iOS finance app with **400+ downloads** 📱  
-- [**Account Vault**](https://discord.gg/account-vaultx) — Secure account storage platform with **3,000+ users** 🔐  
+- [**Account Vault**](https://discord.gg/eTmHPq7TNN) — Secure account storage platform with **3,000+ users** 🔐  
 - [**The Profile Builder**](https://theprofilebuilder.com) — Custom profile generator with **1,000+ subscribers** 🛠  
