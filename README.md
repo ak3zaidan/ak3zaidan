@@ -1,4 +1,3 @@
-## 👋 About Me
 **Muslim - Palestinian** 🇵🇸 | Based in **Oregon**  
 🎓 **M.S. in AI/ML** @ **Oregon State University** | **B.S. in CS/Security**  
 
