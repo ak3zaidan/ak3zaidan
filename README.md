@@ -1,5 +1,5 @@
 🇵🇸 | Based in **Oregon**  
-🎓 **M.S. PhD in AI/ML** @ **Oregon State University**
+🎓 **MS PhD in AI/ML** @ **Oregon State University**
 
 ---
 
